@@ -1,2 +1,2 @@
-# Memory-Light-Sound-Game-Project
+# Light-Sound-Memory-Game-Project
 CodePath Pre-work Project
