@@ -70,8 +70,7 @@ I would have enjoyed making this game harder by shuffling the buttons every turn
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
-
+https://www.kapwing.com/videos/6247c5aaff8dd4007723f664
 
 ## License
 
