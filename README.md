@@ -41,11 +41,11 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 https://media.giphy.com/media/sqdoJLm8pGx593qQ1C/giphy.gif
 
-<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/b95A2pydop2Utw2oSh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/b95A2pydop2Utw2oSh">via GIPHY</a></p>
+https://media.giphy.com/media/b95A2pydop2Utw2oSh/giphy.gif
 
-<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/F6ooErrY5wnUWiS9bj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/F6ooErrY5wnUWiS9bj">via GIPHY</a></p>
+https://media.giphy.com/media/F6ooErrY5wnUWiS9bj/giphy.gif
 
-<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/cx26iA4Xew8jwChscE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/cx26iA4Xew8jwChscE">via GIPHY</a></p>
+https://media.giphy.com/media/cx26iA4Xew8jwChscE/giphy.gif
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
