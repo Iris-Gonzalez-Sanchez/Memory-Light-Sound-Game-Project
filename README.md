@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-https://media.giphy.com/media/sqdoJLm8pGx593qQ1C/giphy.gif
+<img src="https://media.giphy.com/media/sqdoJLm8pGx593qQ1C/giphy.gif"/>
 
 https://media.giphy.com/media/b95A2pydop2Utw2oSh/giphy.gif
 
