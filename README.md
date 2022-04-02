@@ -41,11 +41,11 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 <img src="https://media.giphy.com/media/sqdoJLm8pGx593qQ1C/giphy.gif"/>
 
-https://media.giphy.com/media/b95A2pydop2Utw2oSh/giphy.gif
+<img src="https://media.giphy.com/media/b95A2pydop2Utw2oSh/giphy.gif"/>
 
-https://media.giphy.com/media/F6ooErrY5wnUWiS9bj/giphy.gif
+<img src="https://media.giphy.com/media/F6ooErrY5wnUWiS9bj/giphy.gif"/>
 
-https://media.giphy.com/media/cx26iA4Xew8jwChscE/giphy.gif
+<img src="https://media.giphy.com/media/cx26iA4Xew8jwChscE/giphy.gif"/>
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
