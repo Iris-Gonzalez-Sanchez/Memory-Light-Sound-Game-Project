@@ -67,10 +67,10 @@ How do you keep up with the latest developments in web development?
 I would have enjoyed making this game harder by shuffling the buttons every turn. I think this element would be more likely to stump people that use placement as a measure of pattern. I would have also liked to implement some more JS functions that sped up the sound played per round. Since it is a light and sound game, I would even implement some "fake" indicators of light to the game before a sound starts playing. 
 
 
-
+<!-- 
 ## Interview Recording URL Link
 
-https://www.kapwing.com/videos/6247c5aaff8dd4007723f664
+https://www.kapwing.com/videos/6247c5aaff8dd4007723f664 -->
 
 ## License
 
